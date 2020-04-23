@@ -1,0 +1,15 @@
+vra_url = 
+vra_refresh_token = 
+project_name = "tf_demo_project"
+project_description = "example project created via terraform"
+project_admins = []
+project_users = []
+aws_cloud_zone_1 = 
+aws_cloud_zone_2 = 
+aws_cloud_zone_3 = 
+aws_zone_1_priority = 
+aws_zone_1_max_vms = 
+aws_zone_2_priority = 
+aws_zone_2_max_vms = 
+aws_zone_3_priority = 
+aws_zone_3_max_vms = 
